@@ -1,6 +1,8 @@
 # Duck Out of The Room
 
- **Authors: Brianna Vago, Melodie Collins, Kalyn Koyanagi**
+Note: This is a fork of https://github.com/kalyn-k/CIS-410-Haunted-Jaunt. We pair programmed this game and therefore many of the commits are under another teammate's name.
+
+**Authors: Brianna Vago, Melodie Collins, Kalyn Koyanagi**
 
 **Date created: April 24, 2022** <br/>
 **Last Edited: June 2, 2022** <br/>
