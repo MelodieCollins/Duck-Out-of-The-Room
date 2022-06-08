@@ -1,6 +1,6 @@
 # Duck Out of The Room
 
-Note: This is a fork of https://github.com/kalyn-k/CIS-410-Haunted-Jaunt. We pair programmed this game and therefore many of the commits are under another teammate's name.
+Note: This is a fork of https://github.com/kalyn-k/Duck-Out-of-The-Room. We pair programmed this game and therefore many of the commits are under another teammate's name.
 
 **Authors: Brianna Vago, Melodie Collins, Kalyn Koyanagi**
 
